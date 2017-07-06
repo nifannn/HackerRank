@@ -1,0 +1,5 @@
+m = input()
+set_m = set(map(int, input().split(" ")))
+n = input()
+set_n = set(map(int, input().split(" ")))
+print(len((set_m & set_n)))
