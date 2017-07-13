@@ -1,0 +1,4 @@
+import re
+n, m = [int(i) for i in input().split()]
+s = "".join(["".join(b) for b in list(zip(*[input() for _ in range(n)]))])
+print(re.sub(r"(?<=[a-zA-Z0-9])([ !@#$%&]+)(?=[a-zA-Z0-9])", " ", s))
