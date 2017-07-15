@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -t $'\t' -k 2,2 -n
