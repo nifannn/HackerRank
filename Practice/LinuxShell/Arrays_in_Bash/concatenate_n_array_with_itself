@@ -1,0 +1,4 @@
+#!/bin/bash
+declare -a countries=($(cat))
+op=("${countries[@]}" "${countries[@]}" "${countries[@]}")
+echo ${op[@]}

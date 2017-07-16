@@ -1,0 +1,3 @@
+#!/bin/bash
+declare -a countries=($(cat))
+echo ${#countries[@]}
