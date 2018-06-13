@@ -42,6 +42,14 @@ SQL solutions for HackerRank Practice.
 |[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[The Blunder Solution](the_blunder/)|
 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|[Top Earners Solution](top_earners/)|
 |[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|[Weather Observation Station 2 Solution](weather_observation_station_2/)|
+|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)|[Weather Observation Station 13 Solution](weather_observation_station_13/)|
+|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|[Weather Observation Station 14 Solution](weather_observation_station_14/)|
+|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|[Weather Observation Station 15 Solution](weather_observation_station_15/)|
+|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[Weather Observation Station 16 Solution](weather_observation_station_16/)|
+|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|[Weather Observation Station 17 Solution](weather_observation_station_17/)|
+|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|[Weather Observation Station 18 Solution](weather_observation_station_18/)|
+|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[Weather Observation Station 19 Solution](weather_observation_station_19/)|
+|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[Weather Observation Station 20 Solution](weather_observation_station_20/)|
 
 
 
