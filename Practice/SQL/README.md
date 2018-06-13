@@ -33,6 +33,11 @@ SQL solutions for HackerRank Practice.
 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Occupations Solution](occupations/)|
 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Binary Tree Nodes Solution](binary_tree_nodes/)|
 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|[New Companies Solution](new_companies/)|
+|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|[Revising Aggregations - The Count Function Solution](revising_aggregations_count_function/)|
+|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[Revising Aggregations - The Sum Function Solution](revising_aggregations_sum_function/)|
+|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[Revising Aggregations - Averages Solution](revising_aggregations_average/)|
+|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[Average Population Solution](average_population/)|
+|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Japan Population Solution](japan_population/)|
 
 
 
