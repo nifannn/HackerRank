@@ -28,7 +28,11 @@ SQL solutions for HackerRank Practice.
 |[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[Higher Than 75 Marks Solution](higher_than_75_marks/)|
 |[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[Employee Names Solution](employee_names/)|
 |[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[Employee Salaries Solution](employee_salaries/)|
-
+|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Type of Triangle Solution](type_of_triangle/)|
+|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[The PADS Solution](the_pads/)|
+|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Occupations Solution](occupations/)|
+|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|[Binary Tree Nodes Solution](binary_tree_nodes/)|
+|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|[New Companies Solution](new_companies/)|
 
 
 
