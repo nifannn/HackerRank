@@ -50,7 +50,14 @@ SQL solutions for HackerRank Practice.
 |[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|[Weather Observation Station 18 Solution](weather_observation_station_18/)|
 |[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[Weather Observation Station 19 Solution](weather_observation_station_19/)|
 |[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[Weather Observation Station 20 Solution](weather_observation_station_20/)|
-
+|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)|[Asian Population Solution](asian_population/)|
+|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[African Cities Solution](african_cities/)|
+|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|[Average Population of Each Continent Solution](average_population_each_continent/)|
+|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[The Report Solution](the_report/)|
+|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[Top Competitors Solution](top_competitors/)|
+|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|[Ollivander's Inventory Solution](ollivanders_inventory/)|
+|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[Challenges Solution](challenges/)|
+|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|[Contest Leaderboard Solution](contest_leaderboard/)|
 
 
 ### 简介
