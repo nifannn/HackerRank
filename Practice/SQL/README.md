@@ -62,8 +62,9 @@ SQL solutions for HackerRank Practice.
 |[Placements](https://www.hackerrank.com/challenges/placements/problem)|[Placements Solution](placements/)|
 |[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)|[Symmetric Pairs Solution](symmetric_pairs/)|
 |[Interviews](https://www.hackerrank.com/challenges/interviews/problem)|[Interviews Solution](interviews/)|
-|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problems)|[Draw The Triangle 1 Solution](draw_triangle_1/)|
+|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|[Draw The Triangle 1 Solution](draw_triangle_1/)|
 |[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[Draw The Triangle 2 Solution](draw_triangle_2/)|
+
 
 
 ### 简介
