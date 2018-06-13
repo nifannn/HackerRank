@@ -38,6 +38,10 @@ SQL solutions for HackerRank Practice.
 |[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[Revising Aggregations - Averages Solution](revising_aggregations_average/)|
 |[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[Average Population Solution](average_population/)|
 |[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[Japan Population Solution](japan_population/)|
+|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[Population Density Difference Solution](population_density_difference/)|
+|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[The Blunder Solution](the_blunder/)|
+|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|[Top Earners Solution](top_earners/)|
+|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|[Weather Observation Station 2 Solution](weather_observation_station_2/)|
 
 
 
